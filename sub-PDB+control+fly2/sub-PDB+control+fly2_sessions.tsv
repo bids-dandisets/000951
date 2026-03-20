@@ -1,3 +1,3 @@
-session_id
-ses-+PDB+control+fly2+170403+1746++
-ses-PDB+control+fly2+170403+1746
+session_id	original_session_id
+ses-+PDB+control+fly2+170403+1746++	ses-('PDB_control_fly2_170403_1746',)
+ses-PDB+control+fly2+170403+1746	ses-PDB_control_fly2_170403_1746

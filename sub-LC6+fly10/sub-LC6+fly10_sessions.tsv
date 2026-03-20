@@ -1,3 +1,3 @@
-session_id
-ses-+LC6+fly10+170719+1337++
-ses-LC6+fly10+170719+1337
+session_id	original_session_id
+ses-+LC6+fly10+170719+1337++	ses-('LC6_fly10_170719_1337',)
+ses-LC6+fly10+170719+1337	ses-LC6_fly10_170719_1337

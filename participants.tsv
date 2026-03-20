@@ -1,460 +1,460 @@
-participant_id	species	sex
-sub-LC10a+fly0	Drosophila melanogaster	M
-sub-LC10a+fly1	Drosophila melanogaster	M
-sub-LC10a+fly10	Drosophila melanogaster	M
-sub-LC10a+fly11	Drosophila melanogaster	M
-sub-LC10a+fly12	Drosophila melanogaster	M
-sub-LC10a+fly2	Drosophila melanogaster	M
-sub-LC10a+fly3	Drosophila melanogaster	M
-sub-LC10a+fly4	Drosophila melanogaster	M
-sub-LC10a+fly5	Drosophila melanogaster	M
-sub-LC10a+fly6	Drosophila melanogaster	M
-sub-LC10a+fly7	Drosophila melanogaster	M
-sub-LC10a+fly8	Drosophila melanogaster	M
-sub-LC10a+fly9	Drosophila melanogaster	M
-sub-LC10ad+fly0	Drosophila melanogaster	M
-sub-LC10ad+fly1	Drosophila melanogaster	M
-sub-LC10ad+fly10	Drosophila melanogaster	M
-sub-LC10ad+fly11	Drosophila melanogaster	M
-sub-LC10ad+fly12	Drosophila melanogaster	M
-sub-LC10ad+fly13	Drosophila melanogaster	M
-sub-LC10ad+fly14	Drosophila melanogaster	M
-sub-LC10ad+fly2	Drosophila melanogaster	M
-sub-LC10ad+fly3	Drosophila melanogaster	M
-sub-LC10ad+fly4	Drosophila melanogaster	M
-sub-LC10ad+fly5	Drosophila melanogaster	M
-sub-LC10ad+fly6	Drosophila melanogaster	M
-sub-LC10ad+fly7	Drosophila melanogaster	M
-sub-LC10ad+fly8	Drosophila melanogaster	M
-sub-LC10ad+fly9	Drosophila melanogaster	M
-sub-LC10bc+fly0	Drosophila melanogaster	M
-sub-LC10bc+fly1	Drosophila melanogaster	M
-sub-LC10bc+fly10	Drosophila melanogaster	M
-sub-LC10bc+fly11	Drosophila melanogaster	M
-sub-LC10bc+fly12	Drosophila melanogaster	M
-sub-LC10bc+fly13	Drosophila melanogaster	M
-sub-LC10bc+fly14	Drosophila melanogaster	M
-sub-LC10bc+fly15	Drosophila melanogaster	M
-sub-LC10bc+fly2	Drosophila melanogaster	M
-sub-LC10bc+fly3	Drosophila melanogaster	M
-sub-LC10bc+fly4	Drosophila melanogaster	M
-sub-LC10bc+fly5	Drosophila melanogaster	M
-sub-LC10bc+fly6	Drosophila melanogaster	M
-sub-LC10bc+fly7	Drosophila melanogaster	M
-sub-LC10bc+fly8	Drosophila melanogaster	M
-sub-LC10bc+fly9	Drosophila melanogaster	M
-sub-LC10d+fly0	Drosophila melanogaster	M
-sub-LC10d+fly1	Drosophila melanogaster	M
-sub-LC10d+fly10	Drosophila melanogaster	M
-sub-LC10d+fly11	Drosophila melanogaster	M
-sub-LC10d+fly12	Drosophila melanogaster	M
-sub-LC10d+fly13	Drosophila melanogaster	M
-sub-LC10d+fly14	Drosophila melanogaster	M
-sub-LC10d+fly15	Drosophila melanogaster	M
-sub-LC10d+fly2	Drosophila melanogaster	M
-sub-LC10d+fly3	Drosophila melanogaster	M
-sub-LC10d+fly4	Drosophila melanogaster	M
-sub-LC10d+fly5	Drosophila melanogaster	M
-sub-LC10d+fly6	Drosophila melanogaster	M
-sub-LC10d+fly7	Drosophila melanogaster	M
-sub-LC10d+fly8	Drosophila melanogaster	M
-sub-LC10d+fly9	Drosophila melanogaster	M
-sub-LC11+fly0	Drosophila melanogaster	M
-sub-LC11+fly1	Drosophila melanogaster	M
-sub-LC11+fly10	Drosophila melanogaster	M
-sub-LC11+fly11	Drosophila melanogaster	M
-sub-LC11+fly12	Drosophila melanogaster	M
-sub-LC11+fly13	Drosophila melanogaster	M
-sub-LC11+fly2	Drosophila melanogaster	M
-sub-LC11+fly3	Drosophila melanogaster	M
-sub-LC11+fly4	Drosophila melanogaster	M
-sub-LC11+fly5	Drosophila melanogaster	M
-sub-LC11+fly6	Drosophila melanogaster	M
-sub-LC11+fly7	Drosophila melanogaster	M
-sub-LC11+fly8	Drosophila melanogaster	M
-sub-LC11+fly9	Drosophila melanogaster	M
-sub-LC12+fly0	Drosophila melanogaster	M
-sub-LC12+fly1	Drosophila melanogaster	M
-sub-LC12+fly10	Drosophila melanogaster	M
-sub-LC12+fly11	Drosophila melanogaster	M
-sub-LC12+fly12	Drosophila melanogaster	M
-sub-LC12+fly13	Drosophila melanogaster	M
-sub-LC12+fly2	Drosophila melanogaster	M
-sub-LC12+fly3	Drosophila melanogaster	M
-sub-LC12+fly4	Drosophila melanogaster	M
-sub-LC12+fly5	Drosophila melanogaster	M
-sub-LC12+fly6	Drosophila melanogaster	M
-sub-LC12+fly7	Drosophila melanogaster	M
-sub-LC12+fly8	Drosophila melanogaster	M
-sub-LC12+fly9	Drosophila melanogaster	M
-sub-LC13+fly0	Drosophila melanogaster	M
-sub-LC13+fly1	Drosophila melanogaster	M
-sub-LC13+fly10	Drosophila melanogaster	M
-sub-LC13+fly11	Drosophila melanogaster	M
-sub-LC13+fly12	Drosophila melanogaster	M
-sub-LC13+fly13	Drosophila melanogaster	M
-sub-LC13+fly14	Drosophila melanogaster	M
-sub-LC13+fly15	Drosophila melanogaster	M
-sub-LC13+fly16	Drosophila melanogaster	M
-sub-LC13+fly2	Drosophila melanogaster	M
-sub-LC13+fly3	Drosophila melanogaster	M
-sub-LC13+fly4	Drosophila melanogaster	M
-sub-LC13+fly5	Drosophila melanogaster	M
-sub-LC13+fly6	Drosophila melanogaster	M
-sub-LC13+fly7	Drosophila melanogaster	M
-sub-LC13+fly8	Drosophila melanogaster	M
-sub-LC13+fly9	Drosophila melanogaster	M
-sub-LC15+fly0	Drosophila melanogaster	M
-sub-LC15+fly1	Drosophila melanogaster	M
-sub-LC15+fly10	Drosophila melanogaster	M
-sub-LC15+fly11	Drosophila melanogaster	M
-sub-LC15+fly12	Drosophila melanogaster	M
-sub-LC15+fly13	Drosophila melanogaster	M
-sub-LC15+fly14	Drosophila melanogaster	M
-sub-LC15+fly15	Drosophila melanogaster	M
-sub-LC15+fly2	Drosophila melanogaster	M
-sub-LC15+fly3	Drosophila melanogaster	M
-sub-LC15+fly4	Drosophila melanogaster	M
-sub-LC15+fly5	Drosophila melanogaster	M
-sub-LC15+fly6	Drosophila melanogaster	M
-sub-LC15+fly7	Drosophila melanogaster	M
-sub-LC15+fly8	Drosophila melanogaster	M
-sub-LC15+fly9	Drosophila melanogaster	M
-sub-LC16+fly0	Drosophila melanogaster	M
-sub-LC16+fly1	Drosophila melanogaster	M
-sub-LC16+fly10	Drosophila melanogaster	M
-sub-LC16+fly11	Drosophila melanogaster	M
-sub-LC16+fly12	Drosophila melanogaster	M
-sub-LC16+fly13	Drosophila melanogaster	M
-sub-LC16+fly14	Drosophila melanogaster	M
-sub-LC16+fly15	Drosophila melanogaster	M
-sub-LC16+fly16	Drosophila melanogaster	M
-sub-LC16+fly17	Drosophila melanogaster	M
-sub-LC16+fly18	Drosophila melanogaster	M
-sub-LC16+fly2	Drosophila melanogaster	M
-sub-LC16+fly3	Drosophila melanogaster	M
-sub-LC16+fly4	Drosophila melanogaster	M
-sub-LC16+fly5	Drosophila melanogaster	M
-sub-LC16+fly6	Drosophila melanogaster	M
-sub-LC16+fly7	Drosophila melanogaster	M
-sub-LC16+fly8	Drosophila melanogaster	M
-sub-LC16+fly9	Drosophila melanogaster	M
-sub-LC17+fly0	Drosophila melanogaster	M
-sub-LC17+fly1	Drosophila melanogaster	M
-sub-LC17+fly10	Drosophila melanogaster	M
-sub-LC17+fly11	Drosophila melanogaster	M
-sub-LC17+fly12	Drosophila melanogaster	M
-sub-LC17+fly13	Drosophila melanogaster	M
-sub-LC17+fly2	Drosophila melanogaster	M
-sub-LC17+fly3	Drosophila melanogaster	M
-sub-LC17+fly4	Drosophila melanogaster	M
-sub-LC17+fly5	Drosophila melanogaster	M
-sub-LC17+fly6	Drosophila melanogaster	M
-sub-LC17+fly7	Drosophila melanogaster	M
-sub-LC17+fly8	Drosophila melanogaster	M
-sub-LC17+fly9	Drosophila melanogaster	M
-sub-LC18+fly0	Drosophila melanogaster	M
-sub-LC18+fly1	Drosophila melanogaster	M
-sub-LC18+fly10	Drosophila melanogaster	M
-sub-LC18+fly11	Drosophila melanogaster	M
-sub-LC18+fly12	Drosophila melanogaster	M
-sub-LC18+fly13	Drosophila melanogaster	M
-sub-LC18+fly2	Drosophila melanogaster	M
-sub-LC18+fly3	Drosophila melanogaster	M
-sub-LC18+fly4	Drosophila melanogaster	M
-sub-LC18+fly5	Drosophila melanogaster	M
-sub-LC18+fly6	Drosophila melanogaster	M
-sub-LC18+fly7	Drosophila melanogaster	M
-sub-LC18+fly8	Drosophila melanogaster	M
-sub-LC18+fly9	Drosophila melanogaster	M
-sub-LC20+fly0	Drosophila melanogaster	M
-sub-LC20+fly1	Drosophila melanogaster	M
-sub-LC20+fly10	Drosophila melanogaster	M
-sub-LC20+fly11	Drosophila melanogaster	M
-sub-LC20+fly12	Drosophila melanogaster	M
-sub-LC20+fly13	Drosophila melanogaster	M
-sub-LC20+fly14	Drosophila melanogaster	M
-sub-LC20+fly15	Drosophila melanogaster	M
-sub-LC20+fly2	Drosophila melanogaster	M
-sub-LC20+fly3	Drosophila melanogaster	M
-sub-LC20+fly4	Drosophila melanogaster	M
-sub-LC20+fly5	Drosophila melanogaster	M
-sub-LC20+fly6	Drosophila melanogaster	M
-sub-LC20+fly7	Drosophila melanogaster	M
-sub-LC20+fly8	Drosophila melanogaster	M
-sub-LC20+fly9	Drosophila melanogaster	M
-sub-LC21+fly0	Drosophila melanogaster	M
-sub-LC21+fly1	Drosophila melanogaster	M
-sub-LC21+fly10	Drosophila melanogaster	M
-sub-LC21+fly11	Drosophila melanogaster	M
-sub-LC21+fly12	Drosophila melanogaster	M
-sub-LC21+fly13	Drosophila melanogaster	M
-sub-LC21+fly14	Drosophila melanogaster	M
-sub-LC21+fly2	Drosophila melanogaster	M
-sub-LC21+fly3	Drosophila melanogaster	M
-sub-LC21+fly4	Drosophila melanogaster	M
-sub-LC21+fly5	Drosophila melanogaster	M
-sub-LC21+fly6	Drosophila melanogaster	M
-sub-LC21+fly7	Drosophila melanogaster	M
-sub-LC21+fly8	Drosophila melanogaster	M
-sub-LC21+fly9	Drosophila melanogaster	M
-sub-LC22+fly0	Drosophila melanogaster	M
-sub-LC22+fly1	Drosophila melanogaster	M
-sub-LC22+fly10	Drosophila melanogaster	M
-sub-LC22+fly11	Drosophila melanogaster	M
-sub-LC22+fly12	Drosophila melanogaster	M
-sub-LC22+fly13	Drosophila melanogaster	M
-sub-LC22+fly14	Drosophila melanogaster	M
-sub-LC22+fly15	Drosophila melanogaster	M
-sub-LC22+fly16	Drosophila melanogaster	M
-sub-LC22+fly17	Drosophila melanogaster	M
-sub-LC22+fly18	Drosophila melanogaster	M
-sub-LC22+fly19	Drosophila melanogaster	M
-sub-LC22+fly2	Drosophila melanogaster	M
-sub-LC22+fly20	Drosophila melanogaster	M
-sub-LC22+fly21	Drosophila melanogaster	M
-sub-LC22+fly3	Drosophila melanogaster	M
-sub-LC22+fly4	Drosophila melanogaster	M
-sub-LC22+fly5	Drosophila melanogaster	M
-sub-LC22+fly6	Drosophila melanogaster	M
-sub-LC22+fly7	Drosophila melanogaster	M
-sub-LC22+fly8	Drosophila melanogaster	M
-sub-LC22+fly9	Drosophila melanogaster	M
-sub-LC24+fly0	Drosophila melanogaster	M
-sub-LC24+fly1	Drosophila melanogaster	M
-sub-LC24+fly10	Drosophila melanogaster	M
-sub-LC24+fly11	Drosophila melanogaster	M
-sub-LC24+fly12	Drosophila melanogaster	M
-sub-LC24+fly13	Drosophila melanogaster	M
-sub-LC24+fly14	Drosophila melanogaster	M
-sub-LC24+fly15	Drosophila melanogaster	M
-sub-LC24+fly16	Drosophila melanogaster	M
-sub-LC24+fly17	Drosophila melanogaster	M
-sub-LC24+fly2	Drosophila melanogaster	M
-sub-LC24+fly3	Drosophila melanogaster	M
-sub-LC24+fly4	Drosophila melanogaster	M
-sub-LC24+fly5	Drosophila melanogaster	M
-sub-LC24+fly6	Drosophila melanogaster	M
-sub-LC24+fly7	Drosophila melanogaster	M
-sub-LC24+fly8	Drosophila melanogaster	M
-sub-LC24+fly9	Drosophila melanogaster	M
-sub-LC25+fly0	Drosophila melanogaster	M
-sub-LC25+fly1	Drosophila melanogaster	M
-sub-LC25+fly10	Drosophila melanogaster	M
-sub-LC25+fly11	Drosophila melanogaster	M
-sub-LC25+fly12	Drosophila melanogaster	M
-sub-LC25+fly13	Drosophila melanogaster	M
-sub-LC25+fly14	Drosophila melanogaster	M
-sub-LC25+fly15	Drosophila melanogaster	M
-sub-LC25+fly2	Drosophila melanogaster	M
-sub-LC25+fly3	Drosophila melanogaster	M
-sub-LC25+fly4	Drosophila melanogaster	M
-sub-LC25+fly5	Drosophila melanogaster	M
-sub-LC25+fly6	Drosophila melanogaster	M
-sub-LC25+fly7	Drosophila melanogaster	M
-sub-LC25+fly8	Drosophila melanogaster	M
-sub-LC25+fly9	Drosophila melanogaster	M
-sub-LC26+fly0	Drosophila melanogaster	M
-sub-LC26+fly1	Drosophila melanogaster	M
-sub-LC26+fly10	Drosophila melanogaster	M
-sub-LC26+fly11	Drosophila melanogaster	M
-sub-LC26+fly12	Drosophila melanogaster	M
-sub-LC26+fly13	Drosophila melanogaster	M
-sub-LC26+fly14	Drosophila melanogaster	M
-sub-LC26+fly15	Drosophila melanogaster	M
-sub-LC26+fly16	Drosophila melanogaster	M
-sub-LC26+fly17	Drosophila melanogaster	M
-sub-LC26+fly2	Drosophila melanogaster	M
-sub-LC26+fly3	Drosophila melanogaster	M
-sub-LC26+fly4	Drosophila melanogaster	M
-sub-LC26+fly5	Drosophila melanogaster	M
-sub-LC26+fly6	Drosophila melanogaster	M
-sub-LC26+fly7	Drosophila melanogaster	M
-sub-LC26+fly8	Drosophila melanogaster	M
-sub-LC26+fly9	Drosophila melanogaster	M
-sub-LC31+fly0	Drosophila melanogaster	M
-sub-LC31+fly1	Drosophila melanogaster	M
-sub-LC31+fly10	Drosophila melanogaster	M
-sub-LC31+fly11	Drosophila melanogaster	M
-sub-LC31+fly12	Drosophila melanogaster	M
-sub-LC31+fly13	Drosophila melanogaster	M
-sub-LC31+fly14	Drosophila melanogaster	M
-sub-LC31+fly15	Drosophila melanogaster	M
-sub-LC31+fly16	Drosophila melanogaster	M
-sub-LC31+fly17	Drosophila melanogaster	M
-sub-LC31+fly18	Drosophila melanogaster	M
-sub-LC31+fly19	Drosophila melanogaster	M
-sub-LC31+fly2	Drosophila melanogaster	M
-sub-LC31+fly20	Drosophila melanogaster	M
-sub-LC31+fly21	Drosophila melanogaster	M
-sub-LC31+fly22	Drosophila melanogaster	M
-sub-LC31+fly23	Drosophila melanogaster	M
-sub-LC31+fly3	Drosophila melanogaster	M
-sub-LC31+fly4	Drosophila melanogaster	M
-sub-LC31+fly5	Drosophila melanogaster	M
-sub-LC31+fly6	Drosophila melanogaster	M
-sub-LC31+fly7	Drosophila melanogaster	M
-sub-LC31+fly8	Drosophila melanogaster	M
-sub-LC31+fly9	Drosophila melanogaster	M
-sub-LC4+fly0	Drosophila melanogaster	M
-sub-LC4+fly1	Drosophila melanogaster	M
-sub-LC4+fly10	Drosophila melanogaster	M
-sub-LC4+fly11	Drosophila melanogaster	M
-sub-LC4+fly12	Drosophila melanogaster	M
-sub-LC4+fly13	Drosophila melanogaster	M
-sub-LC4+fly14	Drosophila melanogaster	M
-sub-LC4+fly15	Drosophila melanogaster	M
-sub-LC4+fly16	Drosophila melanogaster	M
-sub-LC4+fly2	Drosophila melanogaster	M
-sub-LC4+fly3	Drosophila melanogaster	M
-sub-LC4+fly4	Drosophila melanogaster	M
-sub-LC4+fly5	Drosophila melanogaster	M
-sub-LC4+fly6	Drosophila melanogaster	M
-sub-LC4+fly7	Drosophila melanogaster	M
-sub-LC4+fly8	Drosophila melanogaster	M
-sub-LC4+fly9	Drosophila melanogaster	M
-sub-LC6+fly0	Drosophila melanogaster	M
-sub-LC6+fly1	Drosophila melanogaster	M
-sub-LC6+fly10	Drosophila melanogaster	M
-sub-LC6+fly11	Drosophila melanogaster	M
-sub-LC6+fly12	Drosophila melanogaster	M
-sub-LC6+fly13	Drosophila melanogaster	M
-sub-LC6+fly14	Drosophila melanogaster	M
-sub-LC6+fly15	Drosophila melanogaster	M
-sub-LC6+fly16	Drosophila melanogaster	M
-sub-LC6+fly17	Drosophila melanogaster	M
-sub-LC6+fly18	Drosophila melanogaster	M
-sub-LC6+fly2	Drosophila melanogaster	M
-sub-LC6+fly3	Drosophila melanogaster	M
-sub-LC6+fly4	Drosophila melanogaster	M
-sub-LC6+fly5	Drosophila melanogaster	M
-sub-LC6+fly6	Drosophila melanogaster	M
-sub-LC6+fly7	Drosophila melanogaster	M
-sub-LC6+fly8	Drosophila melanogaster	M
-sub-LC6+fly9	Drosophila melanogaster	M
-sub-LC9+fly0	Drosophila melanogaster	M
-sub-LC9+fly1	Drosophila melanogaster	M
-sub-LC9+fly10	Drosophila melanogaster	M
-sub-LC9+fly11	Drosophila melanogaster	M
-sub-LC9+fly12	Drosophila melanogaster	M
-sub-LC9+fly13	Drosophila melanogaster	M
-sub-LC9+fly14	Drosophila melanogaster	M
-sub-LC9+fly15	Drosophila melanogaster	M
-sub-LC9+fly16	Drosophila melanogaster	M
-sub-LC9+fly17	Drosophila melanogaster	M
-sub-LC9+fly2	Drosophila melanogaster	M
-sub-LC9+fly3	Drosophila melanogaster	M
-sub-LC9+fly4	Drosophila melanogaster	M
-sub-LC9+fly5	Drosophila melanogaster	M
-sub-LC9+fly6	Drosophila melanogaster	M
-sub-LC9+fly7	Drosophila melanogaster	M
-sub-LC9+fly8	Drosophila melanogaster	M
-sub-LC9+fly9	Drosophila melanogaster	M
-sub-LPLC1+fly0	Drosophila melanogaster	M
-sub-LPLC1+fly1	Drosophila melanogaster	M
-sub-LPLC1+fly10	Drosophila melanogaster	M
-sub-LPLC1+fly11	Drosophila melanogaster	M
-sub-LPLC1+fly12	Drosophila melanogaster	M
-sub-LPLC1+fly13	Drosophila melanogaster	M
-sub-LPLC1+fly14	Drosophila melanogaster	M
-sub-LPLC1+fly15	Drosophila melanogaster	M
-sub-LPLC1+fly2	Drosophila melanogaster	M
-sub-LPLC1+fly3	Drosophila melanogaster	M
-sub-LPLC1+fly4	Drosophila melanogaster	M
-sub-LPLC1+fly5	Drosophila melanogaster	M
-sub-LPLC1+fly6	Drosophila melanogaster	M
-sub-LPLC1+fly7	Drosophila melanogaster	M
-sub-LPLC1+fly8	Drosophila melanogaster	M
-sub-LPLC1+fly9	Drosophila melanogaster	M
-sub-LPLC2+fly0	Drosophila melanogaster	M
-sub-LPLC2+fly1	Drosophila melanogaster	M
-sub-LPLC2+fly10	Drosophila melanogaster	M
-sub-LPLC2+fly11	Drosophila melanogaster	M
-sub-LPLC2+fly12	Drosophila melanogaster	M
-sub-LPLC2+fly13	Drosophila melanogaster	M
-sub-LPLC2+fly14	Drosophila melanogaster	M
-sub-LPLC2+fly15	Drosophila melanogaster	M
-sub-LPLC2+fly16	Drosophila melanogaster	M
-sub-LPLC2+fly2	Drosophila melanogaster	M
-sub-LPLC2+fly3	Drosophila melanogaster	M
-sub-LPLC2+fly4	Drosophila melanogaster	M
-sub-LPLC2+fly5	Drosophila melanogaster	M
-sub-LPLC2+fly6	Drosophila melanogaster	M
-sub-LPLC2+fly7	Drosophila melanogaster	M
-sub-LPLC2+fly8	Drosophila melanogaster	M
-sub-LPLC2+fly9	Drosophila melanogaster	M
-sub-PDB+control+fly0	Drosophila melanogaster	M
-sub-PDB+control+fly1	Drosophila melanogaster	M
-sub-PDB+control+fly10	Drosophila melanogaster	M
-sub-PDB+control+fly11	Drosophila melanogaster	M
-sub-PDB+control+fly12	Drosophila melanogaster	M
-sub-PDB+control+fly13	Drosophila melanogaster	M
-sub-PDB+control+fly14	Drosophila melanogaster	M
-sub-PDB+control+fly15	Drosophila melanogaster	M
-sub-PDB+control+fly16	Drosophila melanogaster	M
-sub-PDB+control+fly17	Drosophila melanogaster	M
-sub-PDB+control+fly18	Drosophila melanogaster	M
-sub-PDB+control+fly19	Drosophila melanogaster	M
-sub-PDB+control+fly2	Drosophila melanogaster	M
-sub-PDB+control+fly20	Drosophila melanogaster	M
-sub-PDB+control+fly21	Drosophila melanogaster	M
-sub-PDB+control+fly22	Drosophila melanogaster	M
-sub-PDB+control+fly23	Drosophila melanogaster	M
-sub-PDB+control+fly24	Drosophila melanogaster	M
-sub-PDB+control+fly25	Drosophila melanogaster	M
-sub-PDB+control+fly26	Drosophila melanogaster	M
-sub-PDB+control+fly27	Drosophila melanogaster	M
-sub-PDB+control+fly28	Drosophila melanogaster	M
-sub-PDB+control+fly29	Drosophila melanogaster	M
-sub-PDB+control+fly3	Drosophila melanogaster	M
-sub-PDB+control+fly30	Drosophila melanogaster	M
-sub-PDB+control+fly31	Drosophila melanogaster	M
-sub-PDB+control+fly32	Drosophila melanogaster	M
-sub-PDB+control+fly33	Drosophila melanogaster	M
-sub-PDB+control+fly34	Drosophila melanogaster	M
-sub-PDB+control+fly35	Drosophila melanogaster	M
-sub-PDB+control+fly36	Drosophila melanogaster	M
-sub-PDB+control+fly37	Drosophila melanogaster	M
-sub-PDB+control+fly38	Drosophila melanogaster	M
-sub-PDB+control+fly39	Drosophila melanogaster	M
-sub-PDB+control+fly4	Drosophila melanogaster	M
-sub-PDB+control+fly40	Drosophila melanogaster	M
-sub-PDB+control+fly41	Drosophila melanogaster	M
-sub-PDB+control+fly42	Drosophila melanogaster	M
-sub-PDB+control+fly43	Drosophila melanogaster	M
-sub-PDB+control+fly44	Drosophila melanogaster	M
-sub-PDB+control+fly45	Drosophila melanogaster	M
-sub-PDB+control+fly46	Drosophila melanogaster	M
-sub-PDB+control+fly47	Drosophila melanogaster	M
-sub-PDB+control+fly48	Drosophila melanogaster	M
-sub-PDB+control+fly49	Drosophila melanogaster	M
-sub-PDB+control+fly5	Drosophila melanogaster	M
-sub-PDB+control+fly50	Drosophila melanogaster	M
-sub-PDB+control+fly51	Drosophila melanogaster	M
-sub-PDB+control+fly52	Drosophila melanogaster	M
-sub-PDB+control+fly53	Drosophila melanogaster	M
-sub-PDB+control+fly54	Drosophila melanogaster	M
-sub-PDB+control+fly55	Drosophila melanogaster	M
-sub-PDB+control+fly56	Drosophila melanogaster	M
-sub-PDB+control+fly57	Drosophila melanogaster	M
-sub-PDB+control+fly58	Drosophila melanogaster	M
-sub-PDB+control+fly59	Drosophila melanogaster	M
-sub-PDB+control+fly6	Drosophila melanogaster	M
-sub-PDB+control+fly60	Drosophila melanogaster	M
-sub-PDB+control+fly61	Drosophila melanogaster	M
-sub-PDB+control+fly62	Drosophila melanogaster	M
-sub-PDB+control+fly63	Drosophila melanogaster	M
-sub-PDB+control+fly64	Drosophila melanogaster	M
-sub-PDB+control+fly65	Drosophila melanogaster	M
-sub-PDB+control+fly66	Drosophila melanogaster	M
-sub-PDB+control+fly67	Drosophila melanogaster	M
-sub-PDB+control+fly68	Drosophila melanogaster	M
-sub-PDB+control+fly69	Drosophila melanogaster	M
-sub-PDB+control+fly7	Drosophila melanogaster	M
-sub-PDB+control+fly70	Drosophila melanogaster	M
-sub-PDB+control+fly71	Drosophila melanogaster	M
-sub-PDB+control+fly72	Drosophila melanogaster	M
-sub-PDB+control+fly73	Drosophila melanogaster	M
-sub-PDB+control+fly74	Drosophila melanogaster	M
-sub-PDB+control+fly8	Drosophila melanogaster	M
-sub-PDB+control+fly9	Drosophila melanogaster	M
+participant_id	original_participant_id	species	sex
+sub-LC10a+fly0	sub-LC10a_fly0	Drosophila melanogaster	M
+sub-LC10a+fly1	sub-LC10a_fly1	Drosophila melanogaster	M
+sub-LC10a+fly10	sub-LC10a_fly10	Drosophila melanogaster	M
+sub-LC10a+fly11	sub-LC10a_fly11	Drosophila melanogaster	M
+sub-LC10a+fly12	sub-LC10a_fly12	Drosophila melanogaster	M
+sub-LC10a+fly2	sub-LC10a_fly2	Drosophila melanogaster	M
+sub-LC10a+fly3	sub-LC10a_fly3	Drosophila melanogaster	M
+sub-LC10a+fly4	sub-LC10a_fly4	Drosophila melanogaster	M
+sub-LC10a+fly5	sub-LC10a_fly5	Drosophila melanogaster	M
+sub-LC10a+fly6	sub-LC10a_fly6	Drosophila melanogaster	M
+sub-LC10a+fly7	sub-LC10a_fly7	Drosophila melanogaster	M
+sub-LC10a+fly8	sub-LC10a_fly8	Drosophila melanogaster	M
+sub-LC10a+fly9	sub-LC10a_fly9	Drosophila melanogaster	M
+sub-LC10ad+fly0	sub-LC10ad_fly0	Drosophila melanogaster	M
+sub-LC10ad+fly1	sub-LC10ad_fly1	Drosophila melanogaster	M
+sub-LC10ad+fly10	sub-LC10ad_fly10	Drosophila melanogaster	M
+sub-LC10ad+fly11	sub-LC10ad_fly11	Drosophila melanogaster	M
+sub-LC10ad+fly12	sub-LC10ad_fly12	Drosophila melanogaster	M
+sub-LC10ad+fly13	sub-LC10ad_fly13	Drosophila melanogaster	M
+sub-LC10ad+fly14	sub-LC10ad_fly14	Drosophila melanogaster	M
+sub-LC10ad+fly2	sub-LC10ad_fly2	Drosophila melanogaster	M
+sub-LC10ad+fly3	sub-LC10ad_fly3	Drosophila melanogaster	M
+sub-LC10ad+fly4	sub-LC10ad_fly4	Drosophila melanogaster	M
+sub-LC10ad+fly5	sub-LC10ad_fly5	Drosophila melanogaster	M
+sub-LC10ad+fly6	sub-LC10ad_fly6	Drosophila melanogaster	M
+sub-LC10ad+fly7	sub-LC10ad_fly7	Drosophila melanogaster	M
+sub-LC10ad+fly8	sub-LC10ad_fly8	Drosophila melanogaster	M
+sub-LC10ad+fly9	sub-LC10ad_fly9	Drosophila melanogaster	M
+sub-LC10bc+fly0	sub-LC10bc_fly0	Drosophila melanogaster	M
+sub-LC10bc+fly1	sub-LC10bc_fly1	Drosophila melanogaster	M
+sub-LC10bc+fly10	sub-LC10bc_fly10	Drosophila melanogaster	M
+sub-LC10bc+fly11	sub-LC10bc_fly11	Drosophila melanogaster	M
+sub-LC10bc+fly12	sub-LC10bc_fly12	Drosophila melanogaster	M
+sub-LC10bc+fly13	sub-LC10bc_fly13	Drosophila melanogaster	M
+sub-LC10bc+fly14	sub-LC10bc_fly14	Drosophila melanogaster	M
+sub-LC10bc+fly15	sub-LC10bc_fly15	Drosophila melanogaster	M
+sub-LC10bc+fly2	sub-LC10bc_fly2	Drosophila melanogaster	M
+sub-LC10bc+fly3	sub-LC10bc_fly3	Drosophila melanogaster	M
+sub-LC10bc+fly4	sub-LC10bc_fly4	Drosophila melanogaster	M
+sub-LC10bc+fly5	sub-LC10bc_fly5	Drosophila melanogaster	M
+sub-LC10bc+fly6	sub-LC10bc_fly6	Drosophila melanogaster	M
+sub-LC10bc+fly7	sub-LC10bc_fly7	Drosophila melanogaster	M
+sub-LC10bc+fly8	sub-LC10bc_fly8	Drosophila melanogaster	M
+sub-LC10bc+fly9	sub-LC10bc_fly9	Drosophila melanogaster	M
+sub-LC10d+fly0	sub-LC10d_fly0	Drosophila melanogaster	M
+sub-LC10d+fly1	sub-LC10d_fly1	Drosophila melanogaster	M
+sub-LC10d+fly10	sub-LC10d_fly10	Drosophila melanogaster	M
+sub-LC10d+fly11	sub-LC10d_fly11	Drosophila melanogaster	M
+sub-LC10d+fly12	sub-LC10d_fly12	Drosophila melanogaster	M
+sub-LC10d+fly13	sub-LC10d_fly13	Drosophila melanogaster	M
+sub-LC10d+fly14	sub-LC10d_fly14	Drosophila melanogaster	M
+sub-LC10d+fly15	sub-LC10d_fly15	Drosophila melanogaster	M
+sub-LC10d+fly2	sub-LC10d_fly2	Drosophila melanogaster	M
+sub-LC10d+fly3	sub-LC10d_fly3	Drosophila melanogaster	M
+sub-LC10d+fly4	sub-LC10d_fly4	Drosophila melanogaster	M
+sub-LC10d+fly5	sub-LC10d_fly5	Drosophila melanogaster	M
+sub-LC10d+fly6	sub-LC10d_fly6	Drosophila melanogaster	M
+sub-LC10d+fly7	sub-LC10d_fly7	Drosophila melanogaster	M
+sub-LC10d+fly8	sub-LC10d_fly8	Drosophila melanogaster	M
+sub-LC10d+fly9	sub-LC10d_fly9	Drosophila melanogaster	M
+sub-LC11+fly0	sub-LC11_fly0	Drosophila melanogaster	M
+sub-LC11+fly1	sub-LC11_fly1	Drosophila melanogaster	M
+sub-LC11+fly10	sub-LC11_fly10	Drosophila melanogaster	M
+sub-LC11+fly11	sub-LC11_fly11	Drosophila melanogaster	M
+sub-LC11+fly12	sub-LC11_fly12	Drosophila melanogaster	M
+sub-LC11+fly13	sub-LC11_fly13	Drosophila melanogaster	M
+sub-LC11+fly2	sub-LC11_fly2	Drosophila melanogaster	M
+sub-LC11+fly3	sub-LC11_fly3	Drosophila melanogaster	M
+sub-LC11+fly4	sub-LC11_fly4	Drosophila melanogaster	M
+sub-LC11+fly5	sub-LC11_fly5	Drosophila melanogaster	M
+sub-LC11+fly6	sub-LC11_fly6	Drosophila melanogaster	M
+sub-LC11+fly7	sub-LC11_fly7	Drosophila melanogaster	M
+sub-LC11+fly8	sub-LC11_fly8	Drosophila melanogaster	M
+sub-LC11+fly9	sub-LC11_fly9	Drosophila melanogaster	M
+sub-LC12+fly0	sub-LC12_fly0	Drosophila melanogaster	M
+sub-LC12+fly1	sub-LC12_fly1	Drosophila melanogaster	M
+sub-LC12+fly10	sub-LC12_fly10	Drosophila melanogaster	M
+sub-LC12+fly11	sub-LC12_fly11	Drosophila melanogaster	M
+sub-LC12+fly12	sub-LC12_fly12	Drosophila melanogaster	M
+sub-LC12+fly13	sub-LC12_fly13	Drosophila melanogaster	M
+sub-LC12+fly2	sub-LC12_fly2	Drosophila melanogaster	M
+sub-LC12+fly3	sub-LC12_fly3	Drosophila melanogaster	M
+sub-LC12+fly4	sub-LC12_fly4	Drosophila melanogaster	M
+sub-LC12+fly5	sub-LC12_fly5	Drosophila melanogaster	M
+sub-LC12+fly6	sub-LC12_fly6	Drosophila melanogaster	M
+sub-LC12+fly7	sub-LC12_fly7	Drosophila melanogaster	M
+sub-LC12+fly8	sub-LC12_fly8	Drosophila melanogaster	M
+sub-LC12+fly9	sub-LC12_fly9	Drosophila melanogaster	M
+sub-LC13+fly0	sub-LC13_fly0	Drosophila melanogaster	M
+sub-LC13+fly1	sub-LC13_fly1	Drosophila melanogaster	M
+sub-LC13+fly10	sub-LC13_fly10	Drosophila melanogaster	M
+sub-LC13+fly11	sub-LC13_fly11	Drosophila melanogaster	M
+sub-LC13+fly12	sub-LC13_fly12	Drosophila melanogaster	M
+sub-LC13+fly13	sub-LC13_fly13	Drosophila melanogaster	M
+sub-LC13+fly14	sub-LC13_fly14	Drosophila melanogaster	M
+sub-LC13+fly15	sub-LC13_fly15	Drosophila melanogaster	M
+sub-LC13+fly16	sub-LC13_fly16	Drosophila melanogaster	M
+sub-LC13+fly2	sub-LC13_fly2	Drosophila melanogaster	M
+sub-LC13+fly3	sub-LC13_fly3	Drosophila melanogaster	M
+sub-LC13+fly4	sub-LC13_fly4	Drosophila melanogaster	M
+sub-LC13+fly5	sub-LC13_fly5	Drosophila melanogaster	M
+sub-LC13+fly6	sub-LC13_fly6	Drosophila melanogaster	M
+sub-LC13+fly7	sub-LC13_fly7	Drosophila melanogaster	M
+sub-LC13+fly8	sub-LC13_fly8	Drosophila melanogaster	M
+sub-LC13+fly9	sub-LC13_fly9	Drosophila melanogaster	M
+sub-LC15+fly0	sub-LC15_fly0	Drosophila melanogaster	M
+sub-LC15+fly1	sub-LC15_fly1	Drosophila melanogaster	M
+sub-LC15+fly10	sub-LC15_fly10	Drosophila melanogaster	M
+sub-LC15+fly11	sub-LC15_fly11	Drosophila melanogaster	M
+sub-LC15+fly12	sub-LC15_fly12	Drosophila melanogaster	M
+sub-LC15+fly13	sub-LC15_fly13	Drosophila melanogaster	M
+sub-LC15+fly14	sub-LC15_fly14	Drosophila melanogaster	M
+sub-LC15+fly15	sub-LC15_fly15	Drosophila melanogaster	M
+sub-LC15+fly2	sub-LC15_fly2	Drosophila melanogaster	M
+sub-LC15+fly3	sub-LC15_fly3	Drosophila melanogaster	M
+sub-LC15+fly4	sub-LC15_fly4	Drosophila melanogaster	M
+sub-LC15+fly5	sub-LC15_fly5	Drosophila melanogaster	M
+sub-LC15+fly6	sub-LC15_fly6	Drosophila melanogaster	M
+sub-LC15+fly7	sub-LC15_fly7	Drosophila melanogaster	M
+sub-LC15+fly8	sub-LC15_fly8	Drosophila melanogaster	M
+sub-LC15+fly9	sub-LC15_fly9	Drosophila melanogaster	M
+sub-LC16+fly0	sub-LC16_fly0	Drosophila melanogaster	M
+sub-LC16+fly1	sub-LC16_fly1	Drosophila melanogaster	M
+sub-LC16+fly10	sub-LC16_fly10	Drosophila melanogaster	M
+sub-LC16+fly11	sub-LC16_fly11	Drosophila melanogaster	M
+sub-LC16+fly12	sub-LC16_fly12	Drosophila melanogaster	M
+sub-LC16+fly13	sub-LC16_fly13	Drosophila melanogaster	M
+sub-LC16+fly14	sub-LC16_fly14	Drosophila melanogaster	M
+sub-LC16+fly15	sub-LC16_fly15	Drosophila melanogaster	M
+sub-LC16+fly16	sub-LC16_fly16	Drosophila melanogaster	M
+sub-LC16+fly17	sub-LC16_fly17	Drosophila melanogaster	M
+sub-LC16+fly18	sub-LC16_fly18	Drosophila melanogaster	M
+sub-LC16+fly2	sub-LC16_fly2	Drosophila melanogaster	M
+sub-LC16+fly3	sub-LC16_fly3	Drosophila melanogaster	M
+sub-LC16+fly4	sub-LC16_fly4	Drosophila melanogaster	M
+sub-LC16+fly5	sub-LC16_fly5	Drosophila melanogaster	M
+sub-LC16+fly6	sub-LC16_fly6	Drosophila melanogaster	M
+sub-LC16+fly7	sub-LC16_fly7	Drosophila melanogaster	M
+sub-LC16+fly8	sub-LC16_fly8	Drosophila melanogaster	M
+sub-LC16+fly9	sub-LC16_fly9	Drosophila melanogaster	M
+sub-LC17+fly0	sub-LC17_fly0	Drosophila melanogaster	M
+sub-LC17+fly1	sub-LC17_fly1	Drosophila melanogaster	M
+sub-LC17+fly10	sub-LC17_fly10	Drosophila melanogaster	M
+sub-LC17+fly11	sub-LC17_fly11	Drosophila melanogaster	M
+sub-LC17+fly12	sub-LC17_fly12	Drosophila melanogaster	M
+sub-LC17+fly13	sub-LC17_fly13	Drosophila melanogaster	M
+sub-LC17+fly2	sub-LC17_fly2	Drosophila melanogaster	M
+sub-LC17+fly3	sub-LC17_fly3	Drosophila melanogaster	M
+sub-LC17+fly4	sub-LC17_fly4	Drosophila melanogaster	M
+sub-LC17+fly5	sub-LC17_fly5	Drosophila melanogaster	M
+sub-LC17+fly6	sub-LC17_fly6	Drosophila melanogaster	M
+sub-LC17+fly7	sub-LC17_fly7	Drosophila melanogaster	M
+sub-LC17+fly8	sub-LC17_fly8	Drosophila melanogaster	M
+sub-LC17+fly9	sub-LC17_fly9	Drosophila melanogaster	M
+sub-LC18+fly0	sub-LC18_fly0	Drosophila melanogaster	M
+sub-LC18+fly1	sub-LC18_fly1	Drosophila melanogaster	M
+sub-LC18+fly10	sub-LC18_fly10	Drosophila melanogaster	M
+sub-LC18+fly11	sub-LC18_fly11	Drosophila melanogaster	M
+sub-LC18+fly12	sub-LC18_fly12	Drosophila melanogaster	M
+sub-LC18+fly13	sub-LC18_fly13	Drosophila melanogaster	M
+sub-LC18+fly2	sub-LC18_fly2	Drosophila melanogaster	M
+sub-LC18+fly3	sub-LC18_fly3	Drosophila melanogaster	M
+sub-LC18+fly4	sub-LC18_fly4	Drosophila melanogaster	M
+sub-LC18+fly5	sub-LC18_fly5	Drosophila melanogaster	M
+sub-LC18+fly6	sub-LC18_fly6	Drosophila melanogaster	M
+sub-LC18+fly7	sub-LC18_fly7	Drosophila melanogaster	M
+sub-LC18+fly8	sub-LC18_fly8	Drosophila melanogaster	M
+sub-LC18+fly9	sub-LC18_fly9	Drosophila melanogaster	M
+sub-LC20+fly0	sub-LC20_fly0	Drosophila melanogaster	M
+sub-LC20+fly1	sub-LC20_fly1	Drosophila melanogaster	M
+sub-LC20+fly10	sub-LC20_fly10	Drosophila melanogaster	M
+sub-LC20+fly11	sub-LC20_fly11	Drosophila melanogaster	M
+sub-LC20+fly12	sub-LC20_fly12	Drosophila melanogaster	M
+sub-LC20+fly13	sub-LC20_fly13	Drosophila melanogaster	M
+sub-LC20+fly14	sub-LC20_fly14	Drosophila melanogaster	M
+sub-LC20+fly15	sub-LC20_fly15	Drosophila melanogaster	M
+sub-LC20+fly2	sub-LC20_fly2	Drosophila melanogaster	M
+sub-LC20+fly3	sub-LC20_fly3	Drosophila melanogaster	M
+sub-LC20+fly4	sub-LC20_fly4	Drosophila melanogaster	M
+sub-LC20+fly5	sub-LC20_fly5	Drosophila melanogaster	M
+sub-LC20+fly6	sub-LC20_fly6	Drosophila melanogaster	M
+sub-LC20+fly7	sub-LC20_fly7	Drosophila melanogaster	M
+sub-LC20+fly8	sub-LC20_fly8	Drosophila melanogaster	M
+sub-LC20+fly9	sub-LC20_fly9	Drosophila melanogaster	M
+sub-LC21+fly0	sub-LC21_fly0	Drosophila melanogaster	M
+sub-LC21+fly1	sub-LC21_fly1	Drosophila melanogaster	M
+sub-LC21+fly10	sub-LC21_fly10	Drosophila melanogaster	M
+sub-LC21+fly11	sub-LC21_fly11	Drosophila melanogaster	M
+sub-LC21+fly12	sub-LC21_fly12	Drosophila melanogaster	M
+sub-LC21+fly13	sub-LC21_fly13	Drosophila melanogaster	M
+sub-LC21+fly14	sub-LC21_fly14	Drosophila melanogaster	M
+sub-LC21+fly2	sub-LC21_fly2	Drosophila melanogaster	M
+sub-LC21+fly3	sub-LC21_fly3	Drosophila melanogaster	M
+sub-LC21+fly4	sub-LC21_fly4	Drosophila melanogaster	M
+sub-LC21+fly5	sub-LC21_fly5	Drosophila melanogaster	M
+sub-LC21+fly6	sub-LC21_fly6	Drosophila melanogaster	M
+sub-LC21+fly7	sub-LC21_fly7	Drosophila melanogaster	M
+sub-LC21+fly8	sub-LC21_fly8	Drosophila melanogaster	M
+sub-LC21+fly9	sub-LC21_fly9	Drosophila melanogaster	M
+sub-LC22+fly0	sub-LC22_fly0	Drosophila melanogaster	M
+sub-LC22+fly1	sub-LC22_fly1	Drosophila melanogaster	M
+sub-LC22+fly10	sub-LC22_fly10	Drosophila melanogaster	M
+sub-LC22+fly11	sub-LC22_fly11	Drosophila melanogaster	M
+sub-LC22+fly12	sub-LC22_fly12	Drosophila melanogaster	M
+sub-LC22+fly13	sub-LC22_fly13	Drosophila melanogaster	M
+sub-LC22+fly14	sub-LC22_fly14	Drosophila melanogaster	M
+sub-LC22+fly15	sub-LC22_fly15	Drosophila melanogaster	M
+sub-LC22+fly16	sub-LC22_fly16	Drosophila melanogaster	M
+sub-LC22+fly17	sub-LC22_fly17	Drosophila melanogaster	M
+sub-LC22+fly18	sub-LC22_fly18	Drosophila melanogaster	M
+sub-LC22+fly19	sub-LC22_fly19	Drosophila melanogaster	M
+sub-LC22+fly2	sub-LC22_fly2	Drosophila melanogaster	M
+sub-LC22+fly20	sub-LC22_fly20	Drosophila melanogaster	M
+sub-LC22+fly21	sub-LC22_fly21	Drosophila melanogaster	M
+sub-LC22+fly3	sub-LC22_fly3	Drosophila melanogaster	M
+sub-LC22+fly4	sub-LC22_fly4	Drosophila melanogaster	M
+sub-LC22+fly5	sub-LC22_fly5	Drosophila melanogaster	M
+sub-LC22+fly6	sub-LC22_fly6	Drosophila melanogaster	M
+sub-LC22+fly7	sub-LC22_fly7	Drosophila melanogaster	M
+sub-LC22+fly8	sub-LC22_fly8	Drosophila melanogaster	M
+sub-LC22+fly9	sub-LC22_fly9	Drosophila melanogaster	M
+sub-LC24+fly0	sub-LC24_fly0	Drosophila melanogaster	M
+sub-LC24+fly1	sub-LC24_fly1	Drosophila melanogaster	M
+sub-LC24+fly10	sub-LC24_fly10	Drosophila melanogaster	M
+sub-LC24+fly11	sub-LC24_fly11	Drosophila melanogaster	M
+sub-LC24+fly12	sub-LC24_fly12	Drosophila melanogaster	M
+sub-LC24+fly13	sub-LC24_fly13	Drosophila melanogaster	M
+sub-LC24+fly14	sub-LC24_fly14	Drosophila melanogaster	M
+sub-LC24+fly15	sub-LC24_fly15	Drosophila melanogaster	M
+sub-LC24+fly16	sub-LC24_fly16	Drosophila melanogaster	M
+sub-LC24+fly17	sub-LC24_fly17	Drosophila melanogaster	M
+sub-LC24+fly2	sub-LC24_fly2	Drosophila melanogaster	M
+sub-LC24+fly3	sub-LC24_fly3	Drosophila melanogaster	M
+sub-LC24+fly4	sub-LC24_fly4	Drosophila melanogaster	M
+sub-LC24+fly5	sub-LC24_fly5	Drosophila melanogaster	M
+sub-LC24+fly6	sub-LC24_fly6	Drosophila melanogaster	M
+sub-LC24+fly7	sub-LC24_fly7	Drosophila melanogaster	M
+sub-LC24+fly8	sub-LC24_fly8	Drosophila melanogaster	M
+sub-LC24+fly9	sub-LC24_fly9	Drosophila melanogaster	M
+sub-LC25+fly0	sub-LC25_fly0	Drosophila melanogaster	M
+sub-LC25+fly1	sub-LC25_fly1	Drosophila melanogaster	M
+sub-LC25+fly10	sub-LC25_fly10	Drosophila melanogaster	M
+sub-LC25+fly11	sub-LC25_fly11	Drosophila melanogaster	M
+sub-LC25+fly12	sub-LC25_fly12	Drosophila melanogaster	M
+sub-LC25+fly13	sub-LC25_fly13	Drosophila melanogaster	M
+sub-LC25+fly14	sub-LC25_fly14	Drosophila melanogaster	M
+sub-LC25+fly15	sub-LC25_fly15	Drosophila melanogaster	M
+sub-LC25+fly2	sub-LC25_fly2	Drosophila melanogaster	M
+sub-LC25+fly3	sub-LC25_fly3	Drosophila melanogaster	M
+sub-LC25+fly4	sub-LC25_fly4	Drosophila melanogaster	M
+sub-LC25+fly5	sub-LC25_fly5	Drosophila melanogaster	M
+sub-LC25+fly6	sub-LC25_fly6	Drosophila melanogaster	M
+sub-LC25+fly7	sub-LC25_fly7	Drosophila melanogaster	M
+sub-LC25+fly8	sub-LC25_fly8	Drosophila melanogaster	M
+sub-LC25+fly9	sub-LC25_fly9	Drosophila melanogaster	M
+sub-LC26+fly0	sub-LC26_fly0	Drosophila melanogaster	M
+sub-LC26+fly1	sub-LC26_fly1	Drosophila melanogaster	M
+sub-LC26+fly10	sub-LC26_fly10	Drosophila melanogaster	M
+sub-LC26+fly11	sub-LC26_fly11	Drosophila melanogaster	M
+sub-LC26+fly12	sub-LC26_fly12	Drosophila melanogaster	M
+sub-LC26+fly13	sub-LC26_fly13	Drosophila melanogaster	M
+sub-LC26+fly14	sub-LC26_fly14	Drosophila melanogaster	M
+sub-LC26+fly15	sub-LC26_fly15	Drosophila melanogaster	M
+sub-LC26+fly16	sub-LC26_fly16	Drosophila melanogaster	M
+sub-LC26+fly17	sub-LC26_fly17	Drosophila melanogaster	M
+sub-LC26+fly2	sub-LC26_fly2	Drosophila melanogaster	M
+sub-LC26+fly3	sub-LC26_fly3	Drosophila melanogaster	M
+sub-LC26+fly4	sub-LC26_fly4	Drosophila melanogaster	M
+sub-LC26+fly5	sub-LC26_fly5	Drosophila melanogaster	M
+sub-LC26+fly6	sub-LC26_fly6	Drosophila melanogaster	M
+sub-LC26+fly7	sub-LC26_fly7	Drosophila melanogaster	M
+sub-LC26+fly8	sub-LC26_fly8	Drosophila melanogaster	M
+sub-LC26+fly9	sub-LC26_fly9	Drosophila melanogaster	M
+sub-LC31+fly0	sub-LC31_fly0	Drosophila melanogaster	M
+sub-LC31+fly1	sub-LC31_fly1	Drosophila melanogaster	M
+sub-LC31+fly10	sub-LC31_fly10	Drosophila melanogaster	M
+sub-LC31+fly11	sub-LC31_fly11	Drosophila melanogaster	M
+sub-LC31+fly12	sub-LC31_fly12	Drosophila melanogaster	M
+sub-LC31+fly13	sub-LC31_fly13	Drosophila melanogaster	M
+sub-LC31+fly14	sub-LC31_fly14	Drosophila melanogaster	M
+sub-LC31+fly15	sub-LC31_fly15	Drosophila melanogaster	M
+sub-LC31+fly16	sub-LC31_fly16	Drosophila melanogaster	M
+sub-LC31+fly17	sub-LC31_fly17	Drosophila melanogaster	M
+sub-LC31+fly18	sub-LC31_fly18	Drosophila melanogaster	M
+sub-LC31+fly19	sub-LC31_fly19	Drosophila melanogaster	M
+sub-LC31+fly2	sub-LC31_fly2	Drosophila melanogaster	M
+sub-LC31+fly20	sub-LC31_fly20	Drosophila melanogaster	M
+sub-LC31+fly21	sub-LC31_fly21	Drosophila melanogaster	M
+sub-LC31+fly22	sub-LC31_fly22	Drosophila melanogaster	M
+sub-LC31+fly23	sub-LC31_fly23	Drosophila melanogaster	M
+sub-LC31+fly3	sub-LC31_fly3	Drosophila melanogaster	M
+sub-LC31+fly4	sub-LC31_fly4	Drosophila melanogaster	M
+sub-LC31+fly5	sub-LC31_fly5	Drosophila melanogaster	M
+sub-LC31+fly6	sub-LC31_fly6	Drosophila melanogaster	M
+sub-LC31+fly7	sub-LC31_fly7	Drosophila melanogaster	M
+sub-LC31+fly8	sub-LC31_fly8	Drosophila melanogaster	M
+sub-LC31+fly9	sub-LC31_fly9	Drosophila melanogaster	M
+sub-LC4+fly0	sub-LC4_fly0	Drosophila melanogaster	M
+sub-LC4+fly1	sub-LC4_fly1	Drosophila melanogaster	M
+sub-LC4+fly10	sub-LC4_fly10	Drosophila melanogaster	M
+sub-LC4+fly11	sub-LC4_fly11	Drosophila melanogaster	M
+sub-LC4+fly12	sub-LC4_fly12	Drosophila melanogaster	M
+sub-LC4+fly13	sub-LC4_fly13	Drosophila melanogaster	M
+sub-LC4+fly14	sub-LC4_fly14	Drosophila melanogaster	M
+sub-LC4+fly15	sub-LC4_fly15	Drosophila melanogaster	M
+sub-LC4+fly16	sub-LC4_fly16	Drosophila melanogaster	M
+sub-LC4+fly2	sub-LC4_fly2	Drosophila melanogaster	M
+sub-LC4+fly3	sub-LC4_fly3	Drosophila melanogaster	M
+sub-LC4+fly4	sub-LC4_fly4	Drosophila melanogaster	M
+sub-LC4+fly5	sub-LC4_fly5	Drosophila melanogaster	M
+sub-LC4+fly6	sub-LC4_fly6	Drosophila melanogaster	M
+sub-LC4+fly7	sub-LC4_fly7	Drosophila melanogaster	M
+sub-LC4+fly8	sub-LC4_fly8	Drosophila melanogaster	M
+sub-LC4+fly9	sub-LC4_fly9	Drosophila melanogaster	M
+sub-LC6+fly0	sub-LC6_fly0	Drosophila melanogaster	M
+sub-LC6+fly1	sub-LC6_fly1	Drosophila melanogaster	M
+sub-LC6+fly10	sub-LC6_fly10	Drosophila melanogaster	M
+sub-LC6+fly11	sub-LC6_fly11	Drosophila melanogaster	M
+sub-LC6+fly12	sub-LC6_fly12	Drosophila melanogaster	M
+sub-LC6+fly13	sub-LC6_fly13	Drosophila melanogaster	M
+sub-LC6+fly14	sub-LC6_fly14	Drosophila melanogaster	M
+sub-LC6+fly15	sub-LC6_fly15	Drosophila melanogaster	M
+sub-LC6+fly16	sub-LC6_fly16	Drosophila melanogaster	M
+sub-LC6+fly17	sub-LC6_fly17	Drosophila melanogaster	M
+sub-LC6+fly18	sub-LC6_fly18	Drosophila melanogaster	M
+sub-LC6+fly2	sub-LC6_fly2	Drosophila melanogaster	M
+sub-LC6+fly3	sub-LC6_fly3	Drosophila melanogaster	M
+sub-LC6+fly4	sub-LC6_fly4	Drosophila melanogaster	M
+sub-LC6+fly5	sub-LC6_fly5	Drosophila melanogaster	M
+sub-LC6+fly6	sub-LC6_fly6	Drosophila melanogaster	M
+sub-LC6+fly7	sub-LC6_fly7	Drosophila melanogaster	M
+sub-LC6+fly8	sub-LC6_fly8	Drosophila melanogaster	M
+sub-LC6+fly9	sub-LC6_fly9	Drosophila melanogaster	M
+sub-LC9+fly0	sub-LC9_fly0	Drosophila melanogaster	M
+sub-LC9+fly1	sub-LC9_fly1	Drosophila melanogaster	M
+sub-LC9+fly10	sub-LC9_fly10	Drosophila melanogaster	M
+sub-LC9+fly11	sub-LC9_fly11	Drosophila melanogaster	M
+sub-LC9+fly12	sub-LC9_fly12	Drosophila melanogaster	M
+sub-LC9+fly13	sub-LC9_fly13	Drosophila melanogaster	M
+sub-LC9+fly14	sub-LC9_fly14	Drosophila melanogaster	M
+sub-LC9+fly15	sub-LC9_fly15	Drosophila melanogaster	M
+sub-LC9+fly16	sub-LC9_fly16	Drosophila melanogaster	M
+sub-LC9+fly17	sub-LC9_fly17	Drosophila melanogaster	M
+sub-LC9+fly2	sub-LC9_fly2	Drosophila melanogaster	M
+sub-LC9+fly3	sub-LC9_fly3	Drosophila melanogaster	M
+sub-LC9+fly4	sub-LC9_fly4	Drosophila melanogaster	M
+sub-LC9+fly5	sub-LC9_fly5	Drosophila melanogaster	M
+sub-LC9+fly6	sub-LC9_fly6	Drosophila melanogaster	M
+sub-LC9+fly7	sub-LC9_fly7	Drosophila melanogaster	M
+sub-LC9+fly8	sub-LC9_fly8	Drosophila melanogaster	M
+sub-LC9+fly9	sub-LC9_fly9	Drosophila melanogaster	M
+sub-LPLC1+fly0	sub-LPLC1_fly0	Drosophila melanogaster	M
+sub-LPLC1+fly1	sub-LPLC1_fly1	Drosophila melanogaster	M
+sub-LPLC1+fly10	sub-LPLC1_fly10	Drosophila melanogaster	M
+sub-LPLC1+fly11	sub-LPLC1_fly11	Drosophila melanogaster	M
+sub-LPLC1+fly12	sub-LPLC1_fly12	Drosophila melanogaster	M
+sub-LPLC1+fly13	sub-LPLC1_fly13	Drosophila melanogaster	M
+sub-LPLC1+fly14	sub-LPLC1_fly14	Drosophila melanogaster	M
+sub-LPLC1+fly15	sub-LPLC1_fly15	Drosophila melanogaster	M
+sub-LPLC1+fly2	sub-LPLC1_fly2	Drosophila melanogaster	M
+sub-LPLC1+fly3	sub-LPLC1_fly3	Drosophila melanogaster	M
+sub-LPLC1+fly4	sub-LPLC1_fly4	Drosophila melanogaster	M
+sub-LPLC1+fly5	sub-LPLC1_fly5	Drosophila melanogaster	M
+sub-LPLC1+fly6	sub-LPLC1_fly6	Drosophila melanogaster	M
+sub-LPLC1+fly7	sub-LPLC1_fly7	Drosophila melanogaster	M
+sub-LPLC1+fly8	sub-LPLC1_fly8	Drosophila melanogaster	M
+sub-LPLC1+fly9	sub-LPLC1_fly9	Drosophila melanogaster	M
+sub-LPLC2+fly0	sub-LPLC2_fly0	Drosophila melanogaster	M
+sub-LPLC2+fly1	sub-LPLC2_fly1	Drosophila melanogaster	M
+sub-LPLC2+fly10	sub-LPLC2_fly10	Drosophila melanogaster	M
+sub-LPLC2+fly11	sub-LPLC2_fly11	Drosophila melanogaster	M
+sub-LPLC2+fly12	sub-LPLC2_fly12	Drosophila melanogaster	M
+sub-LPLC2+fly13	sub-LPLC2_fly13	Drosophila melanogaster	M
+sub-LPLC2+fly14	sub-LPLC2_fly14	Drosophila melanogaster	M
+sub-LPLC2+fly15	sub-LPLC2_fly15	Drosophila melanogaster	M
+sub-LPLC2+fly16	sub-LPLC2_fly16	Drosophila melanogaster	M
+sub-LPLC2+fly2	sub-LPLC2_fly2	Drosophila melanogaster	M
+sub-LPLC2+fly3	sub-LPLC2_fly3	Drosophila melanogaster	M
+sub-LPLC2+fly4	sub-LPLC2_fly4	Drosophila melanogaster	M
+sub-LPLC2+fly5	sub-LPLC2_fly5	Drosophila melanogaster	M
+sub-LPLC2+fly6	sub-LPLC2_fly6	Drosophila melanogaster	M
+sub-LPLC2+fly7	sub-LPLC2_fly7	Drosophila melanogaster	M
+sub-LPLC2+fly8	sub-LPLC2_fly8	Drosophila melanogaster	M
+sub-LPLC2+fly9	sub-LPLC2_fly9	Drosophila melanogaster	M
+sub-PDB+control+fly0	sub-PDB_control_fly0	Drosophila melanogaster	M
+sub-PDB+control+fly1	sub-PDB_control_fly1	Drosophila melanogaster	M
+sub-PDB+control+fly10	sub-PDB_control_fly10	Drosophila melanogaster	M
+sub-PDB+control+fly11	sub-PDB_control_fly11	Drosophila melanogaster	M
+sub-PDB+control+fly12	sub-PDB_control_fly12	Drosophila melanogaster	M
+sub-PDB+control+fly13	sub-PDB_control_fly13	Drosophila melanogaster	M
+sub-PDB+control+fly14	sub-PDB_control_fly14	Drosophila melanogaster	M
+sub-PDB+control+fly15	sub-PDB_control_fly15	Drosophila melanogaster	M
+sub-PDB+control+fly16	sub-PDB_control_fly16	Drosophila melanogaster	M
+sub-PDB+control+fly17	sub-PDB_control_fly17	Drosophila melanogaster	M
+sub-PDB+control+fly18	sub-PDB_control_fly18	Drosophila melanogaster	M
+sub-PDB+control+fly19	sub-PDB_control_fly19	Drosophila melanogaster	M
+sub-PDB+control+fly2	sub-PDB_control_fly2	Drosophila melanogaster	M
+sub-PDB+control+fly20	sub-PDB_control_fly20	Drosophila melanogaster	M
+sub-PDB+control+fly21	sub-PDB_control_fly21	Drosophila melanogaster	M
+sub-PDB+control+fly22	sub-PDB_control_fly22	Drosophila melanogaster	M
+sub-PDB+control+fly23	sub-PDB_control_fly23	Drosophila melanogaster	M
+sub-PDB+control+fly24	sub-PDB_control_fly24	Drosophila melanogaster	M
+sub-PDB+control+fly25	sub-PDB_control_fly25	Drosophila melanogaster	M
+sub-PDB+control+fly26	sub-PDB_control_fly26	Drosophila melanogaster	M
+sub-PDB+control+fly27	sub-PDB_control_fly27	Drosophila melanogaster	M
+sub-PDB+control+fly28	sub-PDB_control_fly28	Drosophila melanogaster	M
+sub-PDB+control+fly29	sub-PDB_control_fly29	Drosophila melanogaster	M
+sub-PDB+control+fly3	sub-PDB_control_fly3	Drosophila melanogaster	M
+sub-PDB+control+fly30	sub-PDB_control_fly30	Drosophila melanogaster	M
+sub-PDB+control+fly31	sub-PDB_control_fly31	Drosophila melanogaster	M
+sub-PDB+control+fly32	sub-PDB_control_fly32	Drosophila melanogaster	M
+sub-PDB+control+fly33	sub-PDB_control_fly33	Drosophila melanogaster	M
+sub-PDB+control+fly34	sub-PDB_control_fly34	Drosophila melanogaster	M
+sub-PDB+control+fly35	sub-PDB_control_fly35	Drosophila melanogaster	M
+sub-PDB+control+fly36	sub-PDB_control_fly36	Drosophila melanogaster	M
+sub-PDB+control+fly37	sub-PDB_control_fly37	Drosophila melanogaster	M
+sub-PDB+control+fly38	sub-PDB_control_fly38	Drosophila melanogaster	M
+sub-PDB+control+fly39	sub-PDB_control_fly39	Drosophila melanogaster	M
+sub-PDB+control+fly4	sub-PDB_control_fly4	Drosophila melanogaster	M
+sub-PDB+control+fly40	sub-PDB_control_fly40	Drosophila melanogaster	M
+sub-PDB+control+fly41	sub-PDB_control_fly41	Drosophila melanogaster	M
+sub-PDB+control+fly42	sub-PDB_control_fly42	Drosophila melanogaster	M
+sub-PDB+control+fly43	sub-PDB_control_fly43	Drosophila melanogaster	M
+sub-PDB+control+fly44	sub-PDB_control_fly44	Drosophila melanogaster	M
+sub-PDB+control+fly45	sub-PDB_control_fly45	Drosophila melanogaster	M
+sub-PDB+control+fly46	sub-PDB_control_fly46	Drosophila melanogaster	M
+sub-PDB+control+fly47	sub-PDB_control_fly47	Drosophila melanogaster	M
+sub-PDB+control+fly48	sub-PDB_control_fly48	Drosophila melanogaster	M
+sub-PDB+control+fly49	sub-PDB_control_fly49	Drosophila melanogaster	M
+sub-PDB+control+fly5	sub-PDB_control_fly5	Drosophila melanogaster	M
+sub-PDB+control+fly50	sub-PDB_control_fly50	Drosophila melanogaster	M
+sub-PDB+control+fly51	sub-PDB_control_fly51	Drosophila melanogaster	M
+sub-PDB+control+fly52	sub-PDB_control_fly52	Drosophila melanogaster	M
+sub-PDB+control+fly53	sub-PDB_control_fly53	Drosophila melanogaster	M
+sub-PDB+control+fly54	sub-PDB_control_fly54	Drosophila melanogaster	M
+sub-PDB+control+fly55	sub-PDB_control_fly55	Drosophila melanogaster	M
+sub-PDB+control+fly56	sub-PDB_control_fly56	Drosophila melanogaster	M
+sub-PDB+control+fly57	sub-PDB_control_fly57	Drosophila melanogaster	M
+sub-PDB+control+fly58	sub-PDB_control_fly58	Drosophila melanogaster	M
+sub-PDB+control+fly59	sub-PDB_control_fly59	Drosophila melanogaster	M
+sub-PDB+control+fly6	sub-PDB_control_fly6	Drosophila melanogaster	M
+sub-PDB+control+fly60	sub-PDB_control_fly60	Drosophila melanogaster	M
+sub-PDB+control+fly61	sub-PDB_control_fly61	Drosophila melanogaster	M
+sub-PDB+control+fly62	sub-PDB_control_fly62	Drosophila melanogaster	M
+sub-PDB+control+fly63	sub-PDB_control_fly63	Drosophila melanogaster	M
+sub-PDB+control+fly64	sub-PDB_control_fly64	Drosophila melanogaster	M
+sub-PDB+control+fly65	sub-PDB_control_fly65	Drosophila melanogaster	M
+sub-PDB+control+fly66	sub-PDB_control_fly66	Drosophila melanogaster	M
+sub-PDB+control+fly67	sub-PDB_control_fly67	Drosophila melanogaster	M
+sub-PDB+control+fly68	sub-PDB_control_fly68	Drosophila melanogaster	M
+sub-PDB+control+fly69	sub-PDB_control_fly69	Drosophila melanogaster	M
+sub-PDB+control+fly7	sub-PDB_control_fly7	Drosophila melanogaster	M
+sub-PDB+control+fly70	sub-PDB_control_fly70	Drosophila melanogaster	M
+sub-PDB+control+fly71	sub-PDB_control_fly71	Drosophila melanogaster	M
+sub-PDB+control+fly72	sub-PDB_control_fly72	Drosophila melanogaster	M
+sub-PDB+control+fly73	sub-PDB_control_fly73	Drosophila melanogaster	M
+sub-PDB+control+fly74	sub-PDB_control_fly74	Drosophila melanogaster	M
+sub-PDB+control+fly8	sub-PDB_control_fly8	Drosophila melanogaster	M
+sub-PDB+control+fly9	sub-PDB_control_fly9	Drosophila melanogaster	M

@@ -1,3 +1,3 @@
-session_id
-ses-+LPLC2+fly5+170711+1335++
-ses-LPLC2+fly5+170711+1335
+session_id	original_session_id
+ses-+LPLC2+fly5+170711+1335++	ses-('LPLC2_fly5_170711_1335',)
+ses-LPLC2+fly5+170711+1335	ses-LPLC2_fly5_170711_1335
