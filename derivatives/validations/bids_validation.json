@@ -1,0 +1,4188 @@
+{
+  "issues": {
+    "issues": [
+      {
+        "subCode": "participant_id",
+        "location": "/participants.tsv",
+        "rule": "rules.tabular_data.modality_agnostic.Participants",
+        "code": "TSV_VALUE_INCORRECT_TYPE",
+        "line": 2,
+        "issueMessage": "'sub-LC10a_fly0'",
+        "severity": "error"
+      },
+      {
+        "code": "UNKNOWN_BIDS_VERSION",
+        "location": "/dataset_description.json",
+        "rule": "rules.checks.dataset.UnknownVersion",
+        "severity": "ignore"
+      },
+      {
+        "code": "README_FILE_MISSING",
+        "location": "/dataset_description.json",
+        "rule": "rules.checks.hints.ReadmeFileMissing",
+        "severity": "ignore"
+      },
+      {
+        "code": "JSON_KEY_RECOMMENDED",
+        "subCode": "SourceDatasets",
+        "location": "/dataset_description.json",
+        "severity": "warning",
+        "rule": "rules.dataset_metadata.dataset_description",
+        "issueMessage": "Field description: Used to specify the locations and relevant attributes of all source datasets (BIDS or not).\nValid keys in each object include `\"URL\"`, `\"DOI\"` (see\n[URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)), and\n`\"Version\"` with\n[string](https://www.w3schools.com/js/js_json_datatypes.asp)\nvalues.\n"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly23/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC1_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10bc_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10ad_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly60/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly22/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly57/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly47/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC20_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly56/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC4_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC15_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC25_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC17_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10a_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC2_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC12_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC18_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC1_fly15/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly37/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC2_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly19/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly17/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC21_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly17/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC21_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC13_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC11_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC21_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC17_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10a_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC4_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10ad_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10ad_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly17/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly18/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly51/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC18_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC1_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC1_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly39/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC13_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly15/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC17_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC11_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly62/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC12_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly25/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly40/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC18_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC18_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10a_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly66/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly46/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10ad_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC12_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly53/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC12_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly20/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC13_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC15_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC11_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly54/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC2_fly15/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC21_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly34/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10d_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10d_fly15/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC17_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC15_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC25_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly16/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC4_fly16/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC15_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC18_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC1_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly33/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC20_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10bc_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC20_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10d_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC20_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10bc_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC18_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly41/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC18_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC15_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC1_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC12_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC2_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly64/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC2_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC15_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC21_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC21_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC11_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly49/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC13_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC21_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC2_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10d_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC20_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC25_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC1_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10a_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC15_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly23/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC1_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10bc_fly15/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly16/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC11_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC2_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10bc_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC17_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC17_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly15/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly27/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10d_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC2_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC20_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10ad_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly35/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC20_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC2_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC25_fly15/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC4_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10a_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC4_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10ad_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC1_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10a_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10d_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10ad_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC4_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC13_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC15_fly15/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC1_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10bc_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC25_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC20_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly17/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC20_fly15/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly15/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10d_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly16/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC25_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly24/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10a_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC15_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC13_fly16/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC25_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly42/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC12_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly65/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10a_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10d_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC13_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly21/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly30/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC12_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC17_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC11_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC25_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC12_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC12_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly38/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly18/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly59/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10d_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC15_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC4_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly15/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC2_fly16/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly36/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10d_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC13_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly58/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC25_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10ad_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC12_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly50/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC18_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC20_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly17/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC4_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC1_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC15_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC21_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly19/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC4_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC18_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC13_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10bc_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10ad_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC2_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC4_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC11_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC25_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC11_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC13_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC4_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC18_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC12_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC20_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC13_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly67/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly68/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC13_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC21_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly20/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC21_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC2_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10d_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC4_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly61/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10bc_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10ad_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly29/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC11_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC4_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10a_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly73/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC21_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC20_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC18_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10bc_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC21_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC1_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10bc_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC25_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly17/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC17_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly26/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly28/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly16/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC17_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly44/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC17_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly19/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC12_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC2_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC21_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC13_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10a_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC25_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly17/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC11_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC4_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC20_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly15/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10bc_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly70/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC2_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly16/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10ad_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10bc_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC12_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10bc_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC11_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly18/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly22/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC13_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC20_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC17_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC21_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10a_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly43/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC18_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC20_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly48/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC13_fly15/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC17_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly32/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC15_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC4_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC11_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC18_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10d_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly31/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC15_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC25_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10bc_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC13_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC12_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC4_fly15/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly20/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10a_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC4_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC1_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC20_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly71/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly17/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC15_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly55/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC2_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly16/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly18/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC25_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly18/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10ad_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10bc_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly72/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10d_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC13_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly21/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC1_fly3/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly7/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly21/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC26_fly8/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly16/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10ad_fly2/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10d_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly63/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC2_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly69/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC1_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC15_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly45/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC17_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC17_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly74/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10d_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly52/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC31_fly15/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10ad_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10d_fly12/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC25_fly1/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC1_fly9/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC22_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC21_fly4/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC18_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LPLC2_fly14/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC9_fly16/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC11_fly6/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10bc_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10ad_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC15_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC11_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC25_fly13/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC10a_fly0/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly10/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly5/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly15/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-PDB_control_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC24_fly15/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC6_fly11/",
+        "severity": "error"
+      },
+      {
+        "code": "NOT_INCLUDED",
+        "location": "/sub-LC16_fly8/",
+        "severity": "error"
+      }
+    ],
+    "codeMessages": {
+      "TSV_VALUE_INCORRECT_TYPE": "A value in a column did not match the acceptable type for that column headers specified format.",
+      "UNKNOWN_BIDS_VERSION": "The BIDSVersion field of 'dataset_description.json' does not match a known release.\nThe BIDS Schema used for validation may be out of date.\n",
+      "README_FILE_MISSING": "The recommended file /README is missing.\nSee Section 03 (Modality agnostic files) of the BIDS specification.\n",
+      "JSON_KEY_RECOMMENDED": "A JSON file is missing a key listed as recommended.",
+      "NOT_INCLUDED": "Files with such naming scheme are not part of BIDS specification. This error is most commonly caused by typos in file names that make them not BIDS compatible. Please consult the specification and make sure your files are named correctly. If this is not a file naming issue (for example when including files not yet covered by the BIDS specification) you should include a \".bidsignore\" file in your dataset (see https://github.com/bids-standard/bids-validator#bidsignore for details). Please note that derived (processed) data should be placed in /derivatives folder and source data (such as DICOMS or behavioural logs in proprietary formats) should be placed in the /sourcedata folder."
+    }
+  },
+  "summary": {
+    "sessions": [],
+    "subjects": [],
+    "subjectMetadata": [
+      {
+        "participantId": "LC10a_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10a_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10a_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10a_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10a_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10a_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10a_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10a_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10a_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10a_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10a_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10a_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10a_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10ad_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10ad_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10ad_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10ad_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10ad_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10ad_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10ad_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10ad_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10ad_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10ad_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10ad_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10ad_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10ad_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10ad_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10ad_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10bc_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10bc_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10bc_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10bc_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10bc_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10bc_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10bc_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10bc_fly15",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10bc_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10bc_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10bc_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10bc_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10bc_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10bc_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10bc_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10bc_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10d_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10d_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10d_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10d_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10d_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10d_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10d_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10d_fly15",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10d_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10d_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10d_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10d_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10d_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10d_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10d_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC10d_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC11_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC11_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC11_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC11_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC11_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC11_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC11_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC11_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC11_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC11_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC11_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC11_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC11_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC11_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC12_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC12_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC12_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC12_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC12_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC12_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC12_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC12_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC12_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC12_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC12_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC12_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC12_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC12_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC13_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC13_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC13_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC13_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC13_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC13_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC13_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC13_fly15",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC13_fly16",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC13_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC13_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC13_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC13_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC13_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC13_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC13_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC13_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC15_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC15_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC15_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC15_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC15_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC15_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC15_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC15_fly15",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC15_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC15_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC15_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC15_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC15_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC15_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC15_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC15_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly15",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly16",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly17",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly18",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC16_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC17_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC17_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC17_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC17_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC17_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC17_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC17_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC17_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC17_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC17_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC17_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC17_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC17_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC17_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC18_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC18_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC18_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC18_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC18_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC18_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC18_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC18_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC18_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC18_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC18_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC18_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC18_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC18_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC20_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC20_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC20_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC20_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC20_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC20_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC20_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC20_fly15",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC20_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC20_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC20_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC20_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC20_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC20_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC20_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC20_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC21_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC21_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC21_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC21_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC21_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC21_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC21_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC21_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC21_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC21_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC21_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC21_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC21_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC21_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC21_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly15",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly16",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly17",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly18",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly19",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly20",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly21",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC22_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly15",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly16",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly17",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC24_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC25_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC25_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC25_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC25_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC25_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC25_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC25_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC25_fly15",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC25_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC25_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC25_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC25_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC25_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC25_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC25_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC25_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly15",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly16",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly17",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC26_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly15",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly16",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly17",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly18",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly19",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly20",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly21",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly22",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly23",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC31_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC4_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC4_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC4_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC4_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC4_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC4_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC4_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC4_fly15",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC4_fly16",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC4_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC4_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC4_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC4_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC4_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC4_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC4_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC4_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly15",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly16",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly17",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly18",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC6_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly15",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly16",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly17",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LC9_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC1_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC1_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC1_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC1_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC1_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC1_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC1_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC1_fly15",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC1_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC1_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC1_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC1_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC1_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC1_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC1_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC1_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC2_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC2_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC2_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC2_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC2_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC2_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC2_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC2_fly15",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC2_fly16",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC2_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC2_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC2_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC2_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC2_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC2_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC2_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "LPLC2_fly9",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly0",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly1",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly10",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly11",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly12",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly13",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly14",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly15",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly16",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly17",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly18",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly19",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly2",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly20",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly21",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly22",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly23",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly24",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly25",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly26",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly27",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly28",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly29",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly3",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly30",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly31",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly32",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly33",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly34",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly35",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly36",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly37",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly38",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly39",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly4",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly40",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly41",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly42",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly43",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly44",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly45",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly46",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly47",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly48",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly49",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly5",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly50",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly51",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly52",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly53",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly54",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly55",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly56",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly57",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly58",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly59",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly6",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly60",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly61",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly62",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly63",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly64",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly65",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly66",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly67",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly68",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly69",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly7",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly70",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly71",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly72",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly73",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly74",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly8",
+        "sex": "M"
+      },
+      {
+        "participantId": "PDB_control_fly9",
+        "sex": "M"
+      }
+    ],
+    "tasks": [],
+    "modalities": [],
+    "secondaryModalities": [],
+    "totalFiles": 462,
+    "size": 158425,
+    "dataProcessed": false,
+    "pet": {},
+    "dataTypes": [],
+    "schemaVersion": "1.3.0-dev"
+  }
+}
